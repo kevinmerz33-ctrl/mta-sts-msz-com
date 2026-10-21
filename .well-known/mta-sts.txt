@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: mail.msz-tools.de
+max_age: 86400
